@@ -12,8 +12,8 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
-	    
+	pje279Sentence1();    
+	pje279Sentence2();    
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
